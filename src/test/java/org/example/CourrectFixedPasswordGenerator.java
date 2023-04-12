@@ -1,6 +1,8 @@
 package org.example;
 
-public class CourrectFixedPasswordGenerator implements PasswordGenerator{
+import org.example.makepassword.PasswordGenerator;
+
+public class CourrectFixedPasswordGenerator implements PasswordGenerator {
 
 
     @Override
